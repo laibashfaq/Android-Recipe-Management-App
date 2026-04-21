@@ -1,0 +1,32 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Project</string>
+    <string name="reinvent_your_cooking">Reinvent Your Cooking</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="go_to_meal_magic">Go to Meal Magic</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="dont_have_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account_sign_in">Already have an account? Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up_to_get_started">Sign up to get started</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="meal_magic">Meal Magic</string>
+    <string name="reinvent_your_lunch">Reinvent your Lunch</string>
+    <string name="meal_magic_description">An intelligent app to help you discover the new dishes for your beloved ones using the available resources in your kitchen</string>
+    <string name="hello_user">Hello ,</string>
+    <string name="explore_magic">Explore the magic</string>
+    <string name="veg1">Veg1</string>
+    <string name="veg2">Veg2</string>
+    <string name="additional_ingredients">Additional meat or veggies if any</string>
+    <string name="enter_veggies">Enter your vegetables available in kitchen</string>
+    <string name="explore_the_magic">Explore the magic</string>
+    <string name="submit">SUBMIT</string>
+</resources>
